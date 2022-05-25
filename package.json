@@ -1,0 +1,23 @@
+{
+  "name": "launchx-nodejs-helloapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node ./node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgonzalez94/launchx-nodejs-helloapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgonzalez94/launchx-nodejs-helloapp/issues"
+  },
+  "homepage": "https://github.com/mgonzalez94/launchx-nodejs-helloapp#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
